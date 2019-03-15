@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>shopee</artifactId>
+        <groupId>cn.shopee</groupId>
+        <version>1.0.5.RELEASE</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+    <artifactId>shopee-common</artifactId>
+    <packaging>pom</packaging>
+    <name>${project.artifactId}</name>
+    <url>http://www.shopee.cn</url>
+
+    <modules>
+        <module>shopee-common-base</module>
+        <module>shopee-common-hibernatemvc</module>
+        <module>shopee-common-mybatismvc</module>
+        <module>shopee-common-query</module>
+        <module>shopee-common-security</module>
+        <module>shopee-common-utils</module>
+        <module>shopee-common-oss</module>
+        <module>shopee-common-quartz</module>
+        <module>shopee-common-sms</module>
+        <module>shopee-common-email</module>
+    </modules>
+
+    <build>
+        <finalName>${project.artifactId}</finalName>
+        <plugins>
+            <!-- 编码和编译和JDK版本 -->
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <version>${maven-compiler-plugin.version}</version>
+                <configuration>
+                    <source>${java.version}</source>
+                    <target>${java.version}</target>
+                    <encoding>${project.build.sourceEncoding}</encoding>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+</project>

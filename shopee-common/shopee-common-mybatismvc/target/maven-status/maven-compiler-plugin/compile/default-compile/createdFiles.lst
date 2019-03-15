@@ -1,0 +1,11 @@
+cn\shopee\common\mybatis\mvc\mapper\BaseTreeMapper.class
+cn\shopee\common\mybatis\mvc\wrapper\EntityWrapper.class
+cn\shopee\common\mybatis\mvc\injector\AutoSqlInjector.class
+cn\shopee\common\mybatis\mvc\entity\TreeEntity.class
+cn\shopee\common\mybatis\mvc\parse\QueryToWrapper.class
+cn\shopee\common\mybatis\mvc\controller\BaseTreeController.class
+cn\shopee\common\mybatis\mvc\controller\BaseCRUDController.class
+cn\shopee\common\mybatis\mvc\service\ITreeCommonService.class
+cn\shopee\common\mybatis\mvc\service\impl\CommonServiceImpl.class
+cn\shopee\common\mybatis\mvc\service\impl\TreeCommonServiceImpl.class
+cn\shopee\common\mybatis\mvc\service\ICommonService.class

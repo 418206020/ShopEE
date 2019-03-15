@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="shopee-admin" />
+        <module name="shopee-bbs" />
+        <module name="shopee-beetl-tag" />
+        <module name="shopee-common-base" />
+        <module name="shopee-common-email" />
+        <module name="shopee-common-hibernatemvc" />
+        <module name="shopee-common-mybatismvc" />
+        <module name="shopee-common-oss" />
+        <module name="shopee-common-quartz" />
+        <module name="shopee-common-query" />
+        <module name="shopee-common-security" />
+        <module name="shopee-common-sms" />
+        <module name="shopee-common-utils" />
+        <module name="shopee-generator" />
+        <module name="shopee-ui-static" />
+        <module name="shopee-ui-tag" />
+        <module name="shopee-vue" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="shopee" target="1.8" />
+      <module name="shopee-admin" target="1.8" />
+      <module name="shopee-bbs" target="1.8" />
+      <module name="shopee-beetl-tag" target="1.8" />
+      <module name="shopee-common" target="1.8" />
+      <module name="shopee-common-base" target="1.8" />
+      <module name="shopee-common-email" target="1.8" />
+      <module name="shopee-common-hibernatemvc" target="1.8" />
+      <module name="shopee-common-mybatismvc" target="1.8" />
+      <module name="shopee-common-oss" target="1.8" />
+      <module name="shopee-common-quartz" target="1.8" />
+      <module name="shopee-common-query" target="1.8" />
+      <module name="shopee-common-security" target="1.8" />
+      <module name="shopee-common-sms" target="1.8" />
+      <module name="shopee-common-utils" target="1.8" />
+      <module name="shopee-generator" target="1.8" />
+      <module name="shopee-ui" target="1.8" />
+      <module name="shopee-ui-static" target="1.8" />
+      <module name="shopee-ui-tag" target="1.8" />
+      <module name="shopee-vue" target="1.8" />
+      <module name="shopee-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

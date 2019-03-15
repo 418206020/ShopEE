@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/shopee.iml" filepath="$PROJECT_DIR$/shopee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopee-web/shopee-admin/shopee-admin.iml" filepath="$PROJECT_DIR$/shopee-web/shopee-admin/shopee-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopee-web/shopee-bbs/shopee-bbs.iml" filepath="$PROJECT_DIR$/shopee-web/shopee-bbs/shopee-bbs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopee-ui/shopee-beetl-tag/shopee-beetl-tag.iml" filepath="$PROJECT_DIR$/shopee-ui/shopee-beetl-tag/shopee-beetl-tag.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopee-common/shopee-common.iml" filepath="$PROJECT_DIR$/shopee-common/shopee-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopee-common/shopee-common-base/shopee-common-base.iml" filepath="$PROJECT_DIR$/shopee-common/shopee-common-base/shopee-common-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopee-common/shopee-common-email/shopee-common-email.iml" filepath="$PROJECT_DIR$/shopee-common/shopee-common-email/shopee-common-email.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopee-common/shopee-common-hibernatemvc/shopee-common-hibernatemvc.iml" filepath="$PROJECT_DIR$/shopee-common/shopee-common-hibernatemvc/shopee-common-hibernatemvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopee-common/shopee-common-mybatismvc/shopee-common-mybatismvc.iml" filepath="$PROJECT_DIR$/shopee-common/shopee-common-mybatismvc/shopee-common-mybatismvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopee-common/shopee-common-oss/shopee-common-oss.iml" filepath="$PROJECT_DIR$/shopee-common/shopee-common-oss/shopee-common-oss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopee-common/shopee-common-quartz/shopee-common-quartz.iml" filepath="$PROJECT_DIR$/shopee-common/shopee-common-quartz/shopee-common-quartz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopee-common/shopee-common-query/shopee-common-query.iml" filepath="$PROJECT_DIR$/shopee-common/shopee-common-query/shopee-common-query.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopee-common/shopee-common-security/shopee-common-security.iml" filepath="$PROJECT_DIR$/shopee-common/shopee-common-security/shopee-common-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopee-common/shopee-common-sms/shopee-common-sms.iml" filepath="$PROJECT_DIR$/shopee-common/shopee-common-sms/shopee-common-sms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopee-common/shopee-common-utils/shopee-common-utils.iml" filepath="$PROJECT_DIR$/shopee-common/shopee-common-utils/shopee-common-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopee-web/shopee-generator/shopee-generator.iml" filepath="$PROJECT_DIR$/shopee-web/shopee-generator/shopee-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopee-ui/shopee-ui.iml" filepath="$PROJECT_DIR$/shopee-ui/shopee-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopee-ui/shopee-ui-static/shopee-ui-static.iml" filepath="$PROJECT_DIR$/shopee-ui/shopee-ui-static/shopee-ui-static.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopee-ui/shopee-ui-tag/shopee-ui-tag.iml" filepath="$PROJECT_DIR$/shopee-ui/shopee-ui-tag/shopee-ui-tag.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopee-web/shopee-vue/shopee-vue.iml" filepath="$PROJECT_DIR$/shopee-web/shopee-vue/shopee-vue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopee-web/shopee-web.iml" filepath="$PROJECT_DIR$/shopee-web/shopee-web.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,15 @@
+D:\workspace\Idea\shopee\shopee-common\shopee-common-oss\src\main\java\cn\jeeweb\common\oss\client\IOSSClient.java
+D:\workspace\Idea\shopee\shopee-common\shopee-common-oss\src\main\java\cn\jeeweb\common\oss\constant\Constants.java
+D:\workspace\Idea\shopee\shopee-common\shopee-common-oss\src\main\java\cn\jeeweb\common\oss\exception\OSSException.java
+D:\workspace\Idea\shopee\shopee-common\shopee-common-oss\src\main\java\cn\jeeweb\common\oss\config\LocalConfig.java
+D:\workspace\Idea\shopee\shopee-common\shopee-common-oss\src\main\java\cn\jeeweb\common\oss\client\AliyunOSSClient.java
+D:\workspace\Idea\shopee\shopee-common\shopee-common-oss\src\main\java\cn\jeeweb\common\oss\exception\InvalidExtensionException.java
+D:\workspace\Idea\shopee\shopee-common\shopee-common-oss\src\main\java\cn\jeeweb\common\oss\utils\AliyunOSSClientUtil.java
+D:\workspace\Idea\shopee\shopee-common\shopee-common-oss\src\main\java\cn\jeeweb\common\oss\exception\FileNameLengthLimitExceededException.java
+D:\workspace\Idea\shopee\shopee-common\shopee-common-oss\src\main\java\cn\jeeweb\common\oss\client\LocalClient.java
+D:\workspace\Idea\shopee\shopee-common\shopee-common-oss\src\main\java\cn\jeeweb\common\oss\config\AliyunConfig.java
+D:\workspace\Idea\shopee\shopee-common\shopee-common-oss\src\main\java\cn\jeeweb\common\oss\client\QiniuOSSClient.java
+D:\workspace\Idea\shopee\shopee-common\shopee-common-oss\src\main\java\cn\jeeweb\common\oss\client\OSSClientFactory.java
+D:\workspace\Idea\shopee\shopee-common\shopee-common-oss\src\main\java\cn\jeeweb\common\oss\config\OssConfig.java
+D:\workspace\Idea\shopee\shopee-common\shopee-common-oss\src\main\java\cn\jeeweb\common\oss\OSSUploadHelper.java
+D:\workspace\Idea\shopee\shopee-common\shopee-common-oss\src\main\java\cn\jeeweb\common\oss\client\AbstractOSSClient.java

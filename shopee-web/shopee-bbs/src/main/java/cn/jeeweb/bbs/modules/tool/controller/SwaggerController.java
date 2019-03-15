@@ -1,0 +1,27 @@
+package cn.shopee.bbs.modules.tool.controller;
+
+import cn.shopee.bbs.aspectj.annotation.Log;
+import cn.shopee.common.mvc.annotation.ViewPrefix;
+import cn.shopee.common.mvc.controller.BaseController;
+import cn.shopee.common.security.shiro.authz.annotation.RequiresMethodPermissions;
+import cn.shopee.common.security.shiro.authz.annotation.RequiresPathPermission;
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+@Controller
+@RequestMapping("${shopee.admin.url.prefix}/tool/swagger")
+@ViewPrefix("modules/tool/swagger")
+@RequiresPathPermission("tool:swagger")
+public class SwaggerController extends BaseController {
+
+	@RequiresMethodPermissions("index")
+	@RequestMapping(method = RequestMethod.GET)
+	public String index(Model model, HttpServletRequest request, HttpServletResponse response) {
+		return display("index");
+	}
+}
