@@ -1,6 +1,4 @@
 
-{
-Kshopee-web/shopee-admin/src/main/java/cn/jeeweb/web/WebBootApplication.java,a\b\ab8b4c611437aaf617c4030e56a87a31b304180b
 O
 shopee-common/shopee-common.iml,b\7\b723688c1ef75fab7a270d73bc80176482c60d64
 B
@@ -13,3 +11,21 @@ R
 "shopee-ui/shopee-beetl-tag/pom.xml,1\c\1c6ce41aedad417530d9568abc08b98016455b1f
 U
 %shopee-web/shopee-admin/sql/mysql.sql,e\f\ef822eeb1572297ac83804a8785c5586c0526b4f
+{
+Kshopee-web/shopee-admin/src/main/java/cn/shopee/web/WebBootApplication.java,2\8\284caa4515e1a629cc73c0ced69947528604c13e
+à
+Xshopee-web/shopee-generator/src/main/java/cn/shopee/generator/service/ITableService.java,d\9\d9b01c639dd5d68b634c397c27d54051842ccfda
+ç
+]shopee-web/shopee-generator/src/main/java/cn/shopee/generator/controller/TableController.java,d\3\d34921731a4ae00d96b162e14740b86695d40310
+å
+\shopee-web/shopee-generator/src/main/java/cn/shopee/generator/common/constant/Constants.java,f\9\f944ca7453c659b35c993f6fc4eb98531ba38c76
+é
+^shopee-web/shopee-generator/src/main/java/cn/shopee/generator/controller/ColumnController.java,c\a\caee4f2ff4a36d94bdfabd0e5f0813fb32903eb3
+í
+bshopee-web/shopee-generator/src/main/java/cn/shopee/generator/controller/DataSourceController.java,d\e\dec213d02ca89850340a149b3e809a39d2baf2aa
+Y
+)shopee-web/shopee-generator/sql/mysql.sql,e\e\eee429d372b6d34edeed742cb0eab2a16dabb9e1
+ô
+ishopee-web/shopee-admin/src/main/java/cn/shopee/web/modules/email/controller/EmailTemplateController.java,f\2\f2263bf684974b7dcf083b9ebf261ba16e38b24a
+R
+"shopee-ui/shopee-ui-static/pom.xml,b\5\b57009fa37ed0cbc93bb21634d15eb708270b78c

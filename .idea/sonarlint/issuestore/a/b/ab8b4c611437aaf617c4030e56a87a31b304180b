@@ -1,6 +1,0 @@
-
-•squid:UselessImportCheck"jRemove this unused import 'org.springframework.boot.autoconfigure.jms.activemq.ActiveMQAutoConfiguration'.(¼öø±8–º¾“–-
-squid:UselessImportCheck"dRemove this unused import 'org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration'.(¦–·Ë8–º¾“–-
-Îsquid:S1598"ªThis file "WebBootApplication.java" should be located in "cn\shopee\web" directory, not in "D:\workspace\Idea\shopee\shopee-web\shopee-admin\src\main\java\cn\jeeweb\web".(şŸ…ìüÿÿÿÿ8–º¾“–-
-©%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Şıÿÿÿÿ8–º¾“–-
-™squid:UselessImportCheck	"iRemove this unused import 'org.springframework.boot.autoconfigure.orm.jpa.HibernateJpaAutoConfiguration'.(“ìšúÿÿÿÿ8–º¾“–-
